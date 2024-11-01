@@ -1,0 +1,305 @@
+---
+title: "Hidden Synergy"  
+subtitle: "Hong Kong’s Role in the Development of Science and Technology in Chinese Higher Education"
+author: "Yisu Zhou, Yang Shen, Xinyue Yao"  
+institute: "University of Macau"  
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+  html_document: 
+    toc: true
+    theme: united
+---
+
+# Background
+
+.center[
+```{r echo=FALSE, out.width="50%"}
+knitr::include_graphics('../fig/nature_index.png')
+
+```
+]
+
+By 2020, China: 
+
+- surpassed the United States as the leading producer of research papers *(Tollefson 2018)*,
+- excelled not only in quantity but also in quality,
+- the top 1 in top-cited scientific papers in 2019 (Wagner, Zhang, and Leydesdorff 2022).
+
+---
+
+# Research question
+
+.center[**How did China achieve such scientific and educational prominence in such a short period?**]
+
+--
+
+- **Conventional explanations**: 
+
+Highlighting the relationship between China and the United States
+
+--
+
+- **New exploratory perspective**
+
++ Adopting the **historical evolutionary perspective** regarding this cross-border academic relationship, **Hong Kong** stands out as a crucial, yet underappreciated, role in advancing China’s higher education and S&T capabilities 
+
+---
+
+The role of Hong Kong has often been overlooked due to two primary factors: 
+
+- **Masking effect**: attention frequently focuses on the prominent **China-U.S. collaboration** in science and technology (*Hao & Hua 2023*)
+
+- **Complicated cohesive analysis**：the collaborative relationship between Hong Kong and mainland China varies by S&T discipline and the geographic location of mainland institutions 
+
+---
+
+# Conventional explanations
+## The Structuralist Perspective
+- assumes a **linear** and **nonhistorical** relationship between external pressures and institutional responses;
+- emphasizes **external**, systemic forces that shape the actions and growth of universities.
+
+## The Culturalist Perspective
+- emphasizes the importance of **historical legacies** and **cultural traditions** in shaping the development of higher education system;
+- selectively highlight successes while **ignoring the persistent challenges** within the global higher education system.
+
+---
+
+# New theoretical perspective: Evolutionary Institutionalism in Higher Education
+
+Our approach: 
+
+- views economic and institutional changes as **dynamic**, **iterative** processes characterized by **continuous adaptation** and **experimentation**
+
+- **institutional heterogeneity and selective adaptation**:capturing the reality that China’s higher education landscape is neither monolithic nor uniformly successful. Instead, institutions vary in capacity, approach, and impact, a phenomenon intensified by local demands and regional conditions.
+
+- **institutional agency and feedback loops**: universities act not merely as passive recipients of state-led reforms but as active participants in their developmental trajectories.
+
+---
+
+# China-Hong Kong Collaboration: A Case of Organizational Learning
+
+## S&T sectors in Hong Kong
+
+- Despite its reputation as a finance-driven, business-oriented city, Hong Kong characterized by **autonomy** and **international connections**, has quietly fostered a **strong academic and scientific community**, especially in collaboration with mainland institutions *(Woo 2007)*.
+
+---
+## Reciprocal collaborating pattern
+
+![](../fig/China-HK.png)
+
+---
+
+# Data and Methodologies
+
+## Data Source
+
+- Publication information from *Web of Science (WoS)*
+
+- PhD dissertation data from  *university libraries*
+
+- University archives
+
+- Biographical data from *key educational leaders*
+
+---
+
+## Selected universities 
+
+.center[**25+3**]
+
+- 25 top-ranked institutions in Mainland China based on the Nature Index 2024
+
+- 3 prestigious universities in Hong Kong
+
+---
+
+class: inverse, center, middle
+
+# Analysis and Disscussion
+
+<html><div style='float:left'></div><hr color='#EB811B' size=1px width=796px></html>
+
+---
+
+#  Top Collaboration Locations for Mainland Chinese Universities
+![](../fig/collab_loc_cas_1980-2023.png)
+---
+
+class: center, middle
+
+![](../fig/collab_loc_sjtu_1980-2023.png)
+
+---
+
+class: center, middle
+
+![](../fig/collab_loc_sysu_1980-2023.png)
+---
+
+# Geographical heterogeneity
+## Top Collaboration Locations for universities in Guangdong province
+
+
+![](../fig/collab_loc_szu_1980-2023.png)
+---
+
+class: center, middle
+
+![](../fig/collab_loc_sust_1980-2023.png)
+---
+
+# Geographic pattern of collaboration with universities in Hong Kong
+
+Regions remain high-frequent collaboration with Hong Kong: 
+
+```{r echo=FALSE, out.width="60%"}
+knitr::include_graphics('../fig/hk-st-mainland-collaboration.png')
+
+```
+
+---
+
+# Top collaboration location for Hong Kong unviersities
+
+![](../fig/collab_loc_hku_1990-2015.png)
+---
+class: center, middle
+
+![](../fig/collab_loc_cuhk_1990-2015.png)
+---
+class: center, middle
+
+![](../fig/collab_loc_hkust_1990-2015.png)
+---
+
+#  Top Collaborating Subject Areas between Hong Kong and Mainland China
+
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics('../fig/subject_loc_hku_1990-2015.png')
+
+```
+
+---
+class: center, middle
+
+![](../fig/subject_loc_cuhk_1990-2015.png)
+
+---
+
+class: center, middle
+
+![](../fig/subject_loc_hkust_1990-2015.png)
+
+---
+
+# Development trends in *advantage* disciplines at each university from 1990 to 2015
+
+
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics('../fig/discipline_hku_engineering,electrical & electronic.png')
+
+```
+
+---
+
+class: center, middle
+
+![](../fig/discipline_cuhk_biochemistry&molecular biology.png)
+
+---
+
+class: center, middle
+
+![](../fig/discipline_hkust_materials science,multidisciplinary.png)
+
+---
+
+#  Explanation from an Evolutionary Perspective
+- Points of Contact
+
+- Temporal Characteristics
+
+- Geographical characteristic
+
+---
+# Points of Contact
+Renowned scientists (**Lee Tsung-Dao**) and figures(**Woo Chia-Wei**,**Kung Shain-dow**) became conduits for collaboration and eagerly created channels to assist Chinese scientists.
+.pull-left[
+![](../fig/cuspea.png)
+
+]
+
+.pull-right[
+![](../fig/Woo_Chia-Wei.png)
+]
+---
+# Temporal Characteristics
+![](../fig/phd-dissrts-hk-1960-2023.png)
+---
+class: center, middle
+![](../fig/numbers-of-publication-partial-1990-2015.png)
+
+---
+class: center, middle
+![](../fig/phd-dissrts-hk-subject-areas.png)
+
+---
+class: center, middle
+![](../fig/numbers-of-publication-partial-1990-2015.png)
+
+---
+class: center, middle
+![](../fig/phdtable.png)
+
+---
+
+# Geographical characteristic
+
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics('../fig/heatmap-hk-mainalnd-collab.gif')
+
+```
+
+---
+An example regarding the collaboration between *CAS* and *HKUST*
+
+- 1991-92, 1992-93: Zhou Guangzhao, President of CAS
+- 1993.10.28-31: Xu Zhihong, Vice President of CAS
+- 1994.3.21: Teng Teng, Vice President of CAS
+- 1994.8.24: Xu Zhihong, Vice President of CAS
+- 1994.8.26: First joint marine research lab established between HKUST and CAS in Sanya, Hainan
+- 1994.9.29: Li Zhensheng, Vice President of CAS
+- 1994.12.15: Lu Yongxiang, Vice President of CAS
+- 1995.3.16-17: Yi Xunyan, Vice President of CAS, along with Zhu Xuan, Deputy Secretary General and
+ Director of Bureau of Planning and Finance, CAS
+- 1995.5.25: Chen Yiyu, Vice President of CAS
+- 1995.11.4: Lu Yongxiang, Vice President of CAS
+- 1995.11.13: Hong Zhongxiang, Director, Institute of Atmospheric Physics, CAS
+- 1997.1.10: Second joint research lab established in microelectronics
+- 1998: Third joint research lab established in nanotechnology
+
+
+---
+
+# Discussion & Conclusion
+
+- Moving beyond structuralist and cultural explanations, we use an **evolutionary institutional framework** to capture the dynamic and adaptive nature of China’s academic and scientific development. 
+
+
+- This “cross-border knowledge exchange” blends mainland talent with Hong Kong’s academic resources and freedoms. This cycle, where students gain advanced training and then bring expertise back to China, reduces talent loss and strengthens both regions’ academic and scientific communities.
+
+---
+# Limitations and further exploration
+
+- Exploring the structure of research funding among the collaborators
+
+- Adopting social network analysis beyond statistical description in further research
+
+- The classification of disciplines in PhD dissertations is rough and need further refine  
+

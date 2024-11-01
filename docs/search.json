@@ -18,21 +18,7 @@
     "href": "index.html#manuscript",
     "title": "Hidden Synergy",
     "section": "Manuscript",
-    "text": "Manuscript\nHTML | PDF | arXiv\nUpdated on Oct 31, 2024."
-  },
-  {
-    "objectID": "index.html#slides",
-    "href": "index.html#slides",
-    "title": "Hidden Synergy",
-    "section": "Slides",
-    "text": "Slides\nAnnual Conference on Social Research at Dept. Sociology, ZJU\nSlides | Handouts"
-  },
-  {
-    "objectID": "index.html#tables-and-figures",
-    "href": "index.html#tables-and-figures",
-    "title": "Hidden Synergy",
-    "section": "Tables and Figures",
-    "text": "Tables and Figures\nAll tables and figures not included in the manuscript due to space constraints can be accessed here."
+    "text": "Manuscript\nHTML | PDF\nUpdated on Oct 31, 2024."
   },
   {
     "objectID": "index.html#additional-tables-and-figures",
@@ -40,5 +26,12 @@
     "title": "Hidden Synergy",
     "section": "Additional Tables and Figures",
     "text": "Additional Tables and Figures\nAll tables and figures not included in the manuscript due to space constraints can be accessed here."
+  },
+  {
+    "objectID": "index.html#slides",
+    "href": "index.html#slides",
+    "title": "Hidden Synergy",
+    "section": "Slides",
+    "text": "Slides\nAnnual Conference on Social Research at Dept. Sociology, ZJU\nSlides | PDF Handouts"
   }
 ]
